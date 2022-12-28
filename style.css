@@ -4,7 +4,7 @@
 }
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(images/pexels-tomáš-malík-1703317.jpg);
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(pexels-tomáš-malík-1703317.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
